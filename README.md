@@ -21,57 +21,74 @@
 <h3 align="left">Languages and Tools :</h3>
 <div align="left">
     <!-- Cloud Platforms -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="gcp logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" />
-  <img width="12" />
-  
-  
-  <!-- Programming Basics -->
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" height="40" alt="c logo" />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original.svg" height="40" alt="Html logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <!-- Cloud Providers -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="gcp logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" />
+<img width="12" />
 
+<!-- Automation/AI -->
+<img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" height="40" alt="n8n logo" />
+<img width="12" />
+<img src="https://avatars.githubusercontent.com/u/63420455?s=200&v=4" height="40" alt="OpenAI logo" />
+<img width="12" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Google_Gemini_logo.png" height="40" alt="Google Gemini logo" />
+<img width="12" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Meta_Llama_Logo.png" height="40" alt="Meta Llama logo" />
+<img width="12" />
 
+<!-- Security -->
+<img src="https://avatars.githubusercontent.com/u/163677?s=200&v=4" height="40" alt="VirusTotal logo" />
+<img width="12" />
+<img src="https://portswigger.net/cms/images/ps-burp-suite-logo.svg" height="40" alt="Burp Suite logo" />
+<img width="12" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Wireshark_icon.svg" height="40" alt="Wireshark logo" />
+<img width="12" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Kali_Linux_logo.svg" height="40" alt="Kali Linux logo" />
+<img width="12" />
+<img src="https://avatars.githubusercontent.com/u/3319964?s=200&v=4" height="40" alt="Cuckoo Sandbox logo" />
+<img width="12" />
 
-  <!-- Automation + Monitoring -->
-  <img src="https://seeklogo.com/images/N/n8n-logo-46BE810C34-seeklogo.com.png" height="40" alt="n8n logo" />
-  <img width="12" />
-  <img src="https://seeklogo.com/images/O/openai-logo-8B9BFEDC26-seeklogo.com.png" height="40" alt="openai logo" />
-  <img width="12" />
-  <img src="https://img.icons8.com/color/48/000000/terraform.png" height="40" alt="terraform logo" />
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/353521/wireshark-icon.svg" height="40" alt="wireshark logo" />
-  <img width="12" />
-  <img src="https://avatars.githubusercontent.com/u/20436623?s=200&v=4" height="40" alt="prowler logo" title="Prowler AWS Security" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/nccgroup/ScoutSuite/master/docs/_static/logo.png" height="40" alt="ScoutSuite logo" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Metasploit_logo.png" height="40" alt="metasploit logo" />
+<!-- Programming Basics -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="Html logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
+<img width="12" />
+
+<!-- Automation + Monitoring -->
+<img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" height="40" alt="n8n logo" />
+<img width="12" />
+<img src="https://avatars.githubusercontent.com/u/63420455?s=200&v=4" height="40" alt="OpenAI logo" />
+<img width="12" />
+<img src="https://img.icons8.com/color/48/000000/terraform.png" height="40" alt="terraform logo" />
+<img width="12" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Wireshark_icon.svg" height="40" alt="Wireshark logo" />
+<img width="12" />
+<img src="https://avatars.githubusercontent.com/u/20436623?s=200&v=4" height="40" alt="prowler logo" title="Prowler AWS Security" />
+<img width="12" />
+<img src="https://raw.githubusercontent.com/nccgroup/ScoutSuite/master/docs/_static/logo.png" height="40" alt="ScoutSuite logo" />
+<img width="12" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Metasploit_logo.png" height="40" alt="metasploit logo" />
 </div>
 
 ---
@@ -81,10 +98,5 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Hrishi71&icon=0&color=0" alt="profile views" />
-</p>
 
 <!-- Proudly built as a Cloud Security Engineer README ✨ -->
