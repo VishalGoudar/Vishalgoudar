@@ -3,9 +3,9 @@
 
 - 🛰️ Currently building an **AI-Powered Learning Management System** to simulate cloud misconfigurations and analyze attack paths
   
-- 🌱 Deep diving into **GCP IAM**, firewall misrules, logging gaps, and threat detection
+- 🌱 Deep diving into **GCP, AZURE**, IAM, firewall misrules, logging gaps, and threat detection
    
-- 🤖 Exploring **n8n + OpenAI automation** for alert triaging and remediation pipelines
+- 🤖 Exploring **n8n + AI automation** for alert triaging and remediation pipelines
     
 - 📫 Reach out to me: <a href="mailto:vishalhr620@gmail.com"><i>vishalhr620@gmail.com</i></a>
 
@@ -34,6 +34,28 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original.svg" height="40" alt="Html logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+
 
 
   <!-- Automation + Monitoring -->
