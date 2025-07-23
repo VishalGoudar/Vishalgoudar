@@ -20,24 +20,18 @@
 
 <h3 align="left">Languages and Tools :</h3>
 <div align="left">
-    <!-- Cloud Platforms -->
-  <!-- Cloud Providers -->
+
+  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="gcp logo" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" />
 <img width="12" />
-
-<!-- Automation/AI -->
 <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" height="40" alt="n8n logo" />
 <img width="12" />
 <img src="https://avatars.githubusercontent.com/u/63420455?s=200&v=4" height="40" alt="OpenAI logo" />
 <img width="12" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Google_Gemini_logo.png" height="40" alt="Google Gemini logo" />
 <img width="12" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Meta_Llama_Logo.png" height="40" alt="Meta Llama logo" />
-<img width="12" />
-
-<!-- Security -->
 <img src="https://avatars.githubusercontent.com/u/163677?s=200&v=4" height="40" alt="VirusTotal logo" />
 <img width="12" />
 <img src="https://portswigger.net/cms/images/ps-burp-suite-logo.svg" height="40" alt="Burp Suite logo" />
@@ -48,34 +42,12 @@
 <img width="12" />
 <img src="https://avatars.githubusercontent.com/u/3319964?s=200&v=4" height="40" alt="Cuckoo Sandbox logo" />
 <img width="12" />
-
-<!-- Programming Basics -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-<img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="Html logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
 <img width="12" />
-
-<!-- Automation + Monitoring -->
 <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" height="40" alt="n8n logo" />
 <img width="12" />
 <img src="https://avatars.githubusercontent.com/u/63420455?s=200&v=4" height="40" alt="OpenAI logo" />
@@ -84,11 +56,15 @@
 <img width="12" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Wireshark_icon.svg" height="40" alt="Wireshark logo" />
 <img width="12" />
-<img src="https://avatars.githubusercontent.com/u/20436623?s=200&v=4" height="40" alt="prowler logo" title="Prowler AWS Security" />
-<img width="12" />
 <img src="https://raw.githubusercontent.com/nccgroup/ScoutSuite/master/docs/_static/logo.png" height="40" alt="ScoutSuite logo" />
 <img width="12" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Metasploit_logo.png" height="40" alt="metasploit logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="Html logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
 </div>
 
 ---
