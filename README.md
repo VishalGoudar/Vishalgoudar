@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vishal</h1>
-<h3 align="center">A passionate Cloud Security engineer.</h3>
+<h3 align="center">🛡️ Cloud Security Engineer | 🔐 GCP | Azure | Automation Enthusiast</h3>
 
-- 🔭 I’m currently working on *Learning Management System*
-
-- 🌱 I’m currently learning *ReactJs*
-
-- 📫 How to reach me *vishalhr620@gmail.com*
+- 🛰️ Currently building an **AI-Powered Learning Management System** to simulate cloud misconfigurations and analyze attack paths
+  
+- 🌱 Deep diving into **GCP IAM**, firewall misrules, logging gaps, and threat detection
+   
+- 🤖 Exploring **n8n + OpenAI automation** for alert triaging and remediation pipelines
+    
+- 📫 Reach out to me: <a href="mailto:vishalhr620@gmail.com"><i>vishalhr620@gmail.com</i></a>
 
 <h3 align="left">My Handles: </h3>
 <p align="left">
