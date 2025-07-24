@@ -3,7 +3,7 @@
 
 - 🛰️ Currently building an **AI-Powered Learning Management System** to simulate cloud misconfigurations and analyze attack paths
   
-- 🌱 Deep diving into **GCP, AZURE**, IAM, firewall misrules, logging gaps, and threat detection
+- 🌱 Deep diving into **GCP, AZURE**, IAM/Entra ID, firewall misrules, logging gaps, and threat detection
    
 - 🤖 Exploring **n8n + AI automation** for alert triaging and remediation pipelines
     
