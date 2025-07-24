@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishal</h1>
-<h3 align="center">🛡️ Cloud Security Engineer | 🔐 GCP | Azure | Automation Enthusiast</h3>
+<h3 align="center">🛡️ Cloud Security Engineer | 120+ Badges | 🔐 GCP | Azure | Automation Enthusiast</h3>
 
 - 🛰️ Currently building an **AI-Powered Learning Management System** to simulate cloud misconfigurations and analyze attack paths
   
